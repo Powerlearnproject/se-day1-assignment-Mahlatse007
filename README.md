@@ -5,12 +5,12 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-  SE applies engineering principles to software development, ensuring reliability, scalability, and efficiency. It is vital for quality, cost-effectiveness, and security in tech industries
+  SE applies engineering principles to software development, ensuring reliability, scalability, and efficiency. It is vital for quality, cost-effectiveness, and security in tech industries.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-  1968: The term "Software Engineering" introduced at NATO conference.
-  1970s-1980s: Rise of structured programming (e.g., C language).
-  1990s-Present: Agile and DevOps revolutionize development.
+  The term "Software Engineering" introduced at NATO conference.
+  Rise of structured programming (e.g., C language).
+  Agile and DevOps revolutionize development.
 
 List and briefly explain the phases of the Software Development Life Cycle.
   Requirement Analysis – Define needs.
@@ -21,8 +21,8 @@ List and briefly explain the phases of the Software Development Life Cycle.
   Maintenance – Fix and update.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-  Waterfall: Linear, suitable for stable requirements (e.g., government projects).
-  Agile: Iterative, flexible (e.g., evolving mobile apps).
+  Waterfall: Linear, suitable for stable requirements (e.g government projects).
+  Agile: Iterative, flexible (e.g mobile apps).
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
   Software Developer – Codes and maintains software.
@@ -30,8 +30,8 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
   Project Manager – Manages timelines and coordination.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-  IDEs: Streamline coding (e.g., VS Code, IntelliJ IDEA).
-  VCS: Manage code changes (e.g., Git, GitHub).
+  IDEs: Streamline coding (e.g VS Code, IntelliJ IDEA).
+  VCS: Manage code changes (e.g Git, GitHub).
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
   Complexity – Use modular programming.
